@@ -1,6 +1,6 @@
 #  **请移步到 https://github.com/beikeshop/beikeshop** 
 
-
+***
 
 <img height=70 src="https://beikeshop.com/image/beike.svg" >
 
@@ -72,7 +72,7 @@ BeikeShop 是基于 Laravel 开发的一款开源商城系统
 ![页面展示4_后台商品列表](https://beikeshop.com/readme/README-6.png)
 ![页面展示5_后台功能搜索](https://beikeshop.com/readme/README-7.png)
 
-=====================
+
 
 ## 技术服务展示
 ![服务展示1_](https://beikeshop.com/readme/README-8.png)
@@ -141,5 +141,5 @@ PR贡献者：nilsir、what_村长、tanxiaoyong、Lucky、So、licy、老北、
 
 ## QQ交流群： 
 群1: 639108380
-
+***
 #  **请移步到 https://github.com/beikeshop/beikeshop** 
